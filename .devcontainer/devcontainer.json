@@ -1,6 +1,6 @@
 {
   "name": "React Native Dev",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
   "features": {},
   "postCreateCommand": "npm install -g expo-cli",
   "forwardPorts": [19000, 19001],
